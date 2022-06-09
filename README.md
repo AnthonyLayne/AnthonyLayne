@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnthonyLayne
-- 👀 I’m interested in improving web development and coding skills. 
+- 👀 Skills: JavaScript, CSS, HTML, React, Node.js. 
 - 🌱 I’m currently learning fullstack web development at BloomTech. 
 - 📫 How to reach me www.linkedin.com/in/anthony-layne-b3b08a231
 
