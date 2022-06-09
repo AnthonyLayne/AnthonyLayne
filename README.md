@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnthonyLayne
-- 👀 I’m interested in learning more about web development and improving my coding skills. 
+- 👀 I’m interested in improving web development and coding skills. 
 - 🌱 I’m currently learning fullstack web development at BloomTech. 
 - 📫 How to reach me www.linkedin.com/in/anthony-layne-b3b08a231
 
